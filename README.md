@@ -21,6 +21,7 @@ gh repo create my-project --template greynewell/agentic-template --clone
 | `AGENTS.md` | Guidelines and hard rules for AI coding agents |
 | `CLAUDE.md` | Entry point for Claude Code — references `AGENTS.md` |
 | `CHANGELOG.md` | [Keep a Changelog](https://keepachangelog.com) format with `[Unreleased]` section |
+| `.claude/settings.json` | Sandbox settings for Claude Code — auto-sandboxes bash commands |
 | `.github/workflows/build.yml` | CI that validates project structure on every push and PR |
 
 ## How It Works

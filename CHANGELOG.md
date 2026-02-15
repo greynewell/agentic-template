@@ -13,3 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - AGENTS.md with guidelines for AI coding agents
 - CLAUDE.md for Claude Code integration
 - CHANGELOG following Keep a Changelog format
+- `.claude/settings.json` with sandbox enabled by default for safer agent execution

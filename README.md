@@ -1,9 +1,9 @@
 # project-name
 
-[![Build](https://github.com/USERNAME/REPO/actions/workflows/build.yml/badge.svg)](https://github.com/USERNAME/REPO/actions)
+[![Build](https://github.com/greynewell/agentic-template/actions/workflows/build.yml/badge.svg)](https://github.com/greynewell/agentic-template/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
-One-line description of what this project does.
+A starter template for AI-first development. Scaffolds `AGENTS.md`, `CLAUDE.md`, `CHANGELOG`, and `README` so coding agents like Claude Code, Cursor, and Copilot have the right context from day one.
 
 ## Architecture
 
